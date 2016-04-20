@@ -1,0 +1,2 @@
+cd sources
+PHANTOMJS_EXECUTABLE=/usr/local/bin/phantomjs /usr/local/bin/casperjs get_detail.js

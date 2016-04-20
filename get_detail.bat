@@ -1,2 +1,2 @@
-cd Source
-casperjs detail.js
+cd sources
+casperjs get_detail.js
